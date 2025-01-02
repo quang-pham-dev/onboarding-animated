@@ -121,10 +121,8 @@ Quang Pham
 
 ### Preview
 
-<video width="320" height="240" controls>
-  <source src="./docs/step-recording.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/8c829f67-10bd-49c3-bdd5-7d55c0c82ac6
+
 
 ### Features demonstrated:
 
